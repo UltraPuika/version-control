@@ -1,2 +1,2 @@
 # version-control
- 
+ Emīls Meiers
